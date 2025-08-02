@@ -13,7 +13,7 @@ Analyzed **147M passenger records** across **244K routes** using Power BI to del
 
 
 ## 🌐 **Power BI Live Project Access**
-🔗 [**Access the Live Project HERE**]([https://app.powerbi.com/view?r=eyJrIjoiYTNjMzJkMzQtODZiOS00NGI0LWJkYjItMzhmYmYwNTIzZjgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiYjUwYmUxZWItZjU0ZC00NzEwLThlYTItNWNhOGRjZDBlMTQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+🔗 Check out my dashboard ---> [**HERE**](https://app.powerbi.com/view?r=eyJrIjoiYTNjMzJkMzQtODZiOS00NGI0LWJkYjItMzhmYmYwNTIzZjgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## 🎯 Problem Statement
@@ -105,9 +105,9 @@ The airline industry faced post-pandemic recovery challenges with:
 
 ## 📞 Contact
 
-**Your Name** - [your.email@domain.com](rishabhanand121@gmail.com)
+**Email** - [Email](rishabhanand121@gmail.com)
 
-**LinkedIn** - [linkedin.com/in/yourprofile](https://www.linkedin.com/in/rishabh-anand-ra356/)
+**LinkedIn** - [LinkedIn](https://www.linkedin.com/in/rishabh-anand-ra356/)
 
 
 ---
