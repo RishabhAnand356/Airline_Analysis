@@ -13,7 +13,7 @@ Analyzed **147M passenger records** across **244K routes** using Power BI to del
 
 
 ## 🌐 **Power BI Live Project Access**
-🔗 Check out my dashboard ---> [**HERE**](https://app.powerbi.com/links/kmZOT2eKBi?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+🔗 Check out my dashboard ---> [**HERE**](https://app.powerbi.com/view?r=eyJrIjoiYjUwYmUxZWItZjU0ZC00NzEwLThlYTItNWNhOGRjZDBlMTQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## 🎯 Problem Statement
