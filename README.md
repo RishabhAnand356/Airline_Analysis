@@ -102,6 +102,17 @@ The airline industry faced post-pandemic recovery challenges with:
 - Microsoft Excel
 - SQL Server (optional)
 
+### Dashboard Preview / Demo
+
+![Dashboard Preview](https://github.com/RishabhAnand356/Airline_Analysis/blob/main/Home_Page.png)
+![Dashboard Preview](https://github.com/RishabhAnand356/Airline_Analysis/blob/main/Overview.png)
+![Dashboard Preview](https://github.com/RishabhAnand356/Airline_Analysis/blob/main/Route_analysis.png)
+![Dashboard Preview](https://github.com/RishabhAnand356/Airline_Analysis/blob/main/Airport_insight.png)
+![Dashboard Preview](https://github.com/RishabhAnand356/Airline_Analysis/blob/main/Airline_Performance.png)
+![Dashboard Preview](https://github.com/RishabhAnand356/Airline_Analysis/blob/main/Fares_insights.png)
+![Dashboard Preview](https://github.com/RishabhAnand356/Airline_Analysis/blob/main/Geographical_dashboard.png)
+
+
 
 ## 📞 Contact
 
